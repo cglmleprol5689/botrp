@@ -17,10 +17,10 @@ Rendez-vous sur le Portail Développeur Discord :
 
 - Activez les Intents de privilège :
 
-* Presence Intent
+  * Presence Intent
   
-* Server Members Intent
+  * Server Members Intent
   
-* Message Content Intent
+  * Message Content Intent
 
 Une fois ces étapes terminées, redémarrez votre bot pour appliquer les modifications ! 🚀
